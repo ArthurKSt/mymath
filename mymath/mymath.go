@@ -2,6 +2,8 @@ package mymath
 
 import "math"
 
+//123
+
 func DoNothing() {}
 
 func Sqrt(x float64) float64 {
